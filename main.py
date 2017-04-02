@@ -6,7 +6,7 @@ from bicycles import Bicycle, BikeShop, Customer
 
 bikes = [
     Bicycle("Rock Hopper", 75, 100), Bicycle("Dirt Jumper", 70, 150),
-    Bicycle("Speed Demon", 50, 250), Bicycle("Mountin Top", 90, 350),
+    Bicycle("Speed Demon", 50, 250), Bicycle("Mountaineer", 90, 350),
     Bicycle("Road Master", 65, 100), Bicycle("Ghetto King", 75, 550)
     ]
 
